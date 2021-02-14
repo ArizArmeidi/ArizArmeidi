@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArizArmeidi
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Flutter and Dart
-- 💞️ I’m looking to collaborate on any Flutter Project
+- 🛠 I’m looking to collaborate on any Flutter Project and also currently looking for any work opportunity
 - 📫 You can reach me by sending a message to my Twitter @ArizArmeidi
 
 <!---
