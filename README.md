@@ -9,13 +9,13 @@
 
 <p align="center">
   <a href=""> 
-    <img  src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter"/>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
   </a>
     <a href=""> 
-    <img  src="https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart"/>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
   </a>
     <a href=""> 
-    <img  src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java"/>
+ <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   </a>
 </p>
 
@@ -38,15 +38,15 @@
 
 <p align="center" >  
   <a href="https://github.com/ArizArmeidi/"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=ArizArmeidi&show_icons=true&include_all_commits=true&theme=dark"/>
+    <img width=500 src="https://github-readme-stats.vercel.app/api?username=ArizArmeidi&show_icons=true&include_all_commits=true&theme=dark"/>
   </a>
    <br/>
   <a href="https://github.com/ArizArmeidi/"> 
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ArizArmeidi&theme=dark"/>
+    <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=ArizArmeidi&theme=dark"/>
   </a>
    <br/>
   <a href="https://github.com/ArizArmeidi/"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizArmeidi&layout=compact&theme=dark"/>
+    <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizArmeidi&count_private=true&layout=compact&theme=dark"/>
   </a>
 </p>
 
