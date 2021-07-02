@@ -4,6 +4,7 @@
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Flutter and Dart
 - 🛠 I’m looking to collaborate on any Flutter Project and also currently looking for any work opportunity
+- 🙌 Contact Me on my social media for any questions about my project
 
 ## Experienced In:
 
