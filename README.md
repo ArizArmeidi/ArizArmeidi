@@ -1,8 +1,8 @@
 ## About Me:
 
 - 👋 Hi, I’m Ariz Armeidi
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Flutter and Dart
+- 👀 I’m interested in Mobile App Development and UI/UX
+- 🌱 I’m currently working with Flutter and Dart
 - 🛠 Currently working on an exciting new app to help people connect with each other
 - 🙌 Contact Me on my social media for any questions about my project
 
