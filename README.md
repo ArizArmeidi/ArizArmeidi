@@ -41,7 +41,7 @@
 
 <p align="center" >  
   <a href="https://github.com/ArizArmeidi/"> 
-    <img width=500 src="https://github-readme-stats.vercel.app/api?username=ArizArmeidi&show_icons=true&include_all_commits=true&theme=dark"/>
+    <img width=500 src="https://github-readme-stats.vercel.app/api?username=ArizArmeidi&?count_private=true&show_icons=true&include_all_commits=true&theme=dark&"/>
   </a>
    <br/>
   <a href="https://github.com/ArizArmeidi/"> 
@@ -49,7 +49,7 @@
   </a>
    <br/>
   <a href="https://github.com/ArizArmeidi/"> 
-    <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizArmeidi&count_private=true&layout=compact&theme=dark"/>
+    <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizArmeidi&count_private=true&layout=compact&theme=dark&hide=javascript"/>
   </a>
 </p>
 
