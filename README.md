@@ -1,7 +1,7 @@
 ## About Me:
 
 - 👋 Hi, I’m Ariz Armeidi
-- 👨‍💻 Front-End Mobile Developer at OneFoundry
+- 👨‍💻 Mobile Developer at OneFoundry
 - 👀 I’m interested in Mobile App Development and UI/UX
 - 🌱 I’m currently working with Flutter and Dart
 - 🛠 Currently working on an exciting new app to help people connect with each other
